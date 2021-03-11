@@ -1,5 +1,3 @@
-#  PyCharm рисует здесь какую-то фигню
-
 import os
 import pygame as pg
 from random import choice, randrange
